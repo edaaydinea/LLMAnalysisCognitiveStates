@@ -191,3 +191,5 @@ For the experimental Ollama features, ensure the Ollama server is running and th
 9. Ollama. (2025). Retrieved from [https://ollama.com](https://ollama.com)
 
 ## 13\. License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
