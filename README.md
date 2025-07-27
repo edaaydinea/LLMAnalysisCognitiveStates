@@ -2,7 +2,7 @@
 
 **Project Version:** 1.0.0
 **Last Updated:** May 19, 2025
-**Author/Team:** Eda AYDIN / Data Lens Strategies
+**Author/Team:** Eda AYDIN / NeuroQuantix
 
 ## Table of Contents
 
